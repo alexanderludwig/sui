@@ -1,5 +1,18 @@
 # @mysten/deepbook-v3
 
+## 0.2.1
+
+### Patch Changes
+
+- Updated dependencies [a3e32fe]
+  - @mysten/sui@1.6.0
+
+## 0.2.0
+
+### Minor Changes
+
+- 41361b6: Constants update, manager sdk update
+
 ## 0.1.0
 
 ### Minor Changes

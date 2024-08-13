@@ -1,5 +1,18 @@
 # @mysten/zklogin
 
+## 0.7.16
+
+### Patch Changes
+
+- Updated dependencies [a3e32fe]
+  - @mysten/sui@1.6.0
+
+## 0.7.15
+
+### Patch Changes
+
+- 6f79ed9: Additional check for bigints
+
 ## 0.7.14
 
 ### Patch Changes
